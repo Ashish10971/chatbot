@@ -1,1 +1,9 @@
-
+{
+  "admission": "Admissions open from June. Apply through the official portal.",
+  "courses": "We offer B.Tech, M.Tech, MBA, and MCA.",
+  "contact": "Contact us at +91-1234567890 or email: info@college.edu",
+  "fees": "Visit our website’s 'Fee Structure' section for detailed info.",
+  "hostel": "Hostels are available with mess facilities.",
+  "placement": "We have 95% placement with top companies like Infosys, TCS, and Wipro.",
+  "library": "Library is open from 8AM to 8PM with 10,000+ books."
+}
